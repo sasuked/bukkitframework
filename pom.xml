@@ -47,6 +47,10 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
+        <repository>
+            <id>elmakers-repo</id>
+            <url>http://maven.elmakers.com/repository/</url>
+        </repository>
     </repositories>
 
     <dependencies>
